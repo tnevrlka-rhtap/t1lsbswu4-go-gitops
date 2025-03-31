@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: t1lsbswu4-go-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/t1lsbswu4-go
